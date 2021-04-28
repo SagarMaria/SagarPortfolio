@@ -1,5 +1,5 @@
 lightbox.option({
     'alwaysShowNavOnTouchDevices': true,
-    'disableScrolling	': true,
+    'disableScrolling': true,
     'fitImagesInViewport': true
 });
