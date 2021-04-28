@@ -451,12 +451,12 @@ a.top-scroll {
    right: 1.2rem;
    bottom: 1.2rem;
    position: fixed;
-   opacity: .3;
+   opacity: .6;
    z-index: 1000;
    display: none;
 }
 a.top-scroll:hover {
-   opacity: .5;
+   opacity: 1;
 }
 .top-scroll .svg-inline--fa {
    background: #e34460;
