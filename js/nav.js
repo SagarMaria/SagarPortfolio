@@ -7,7 +7,7 @@ $(document).ready(function () {
     });
 
     $navItem.click(function () {
-        $hamburger.toggleClass("is-active");
+        $hamburger.removeClass("is-active");
     });
 
     $hamburger.keypress(function (event) {
