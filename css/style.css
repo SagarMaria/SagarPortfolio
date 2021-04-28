@@ -206,6 +206,14 @@ h3.heading {
    padding-bottom: .4rem;
 }
 
+#skills h1 {
+   font-size: 1.75rem;
+}
+
+#skills h4 {
+   font-size: 1.3rem;
+}
+
 /*===== FIXED BACKGROUND IMG DARK =====*/
 
 /*--- iOS Fixed Background Image --*/
@@ -397,7 +405,8 @@ blockquote .svg-inline--fa {
    padding: 1rem 2rem 3rem;
 }
 .footer img {
-   height: 2rem;
+   height: auto;
+   width: 5rem;
    margin: 1.5rem 0;
 }
 .footer a,
@@ -450,7 +459,7 @@ a.top-scroll:hover {
    opacity: .5;
 }
 .top-scroll .svg-inline--fa {
-   background: white;
+   background: #e34460;
    color: #53595f;
    font-size: 3rem;
    height: 1.7rem;
@@ -481,6 +490,12 @@ a.top-scroll:hover {
       max-width: 50%;
       margin: 0 auto;
    }
+   #introduction h1{
+      font-size: 2rem;
+   }
+   #skills h3 {
+      font-size: 1.3rem;
+   }
 }
 
 /* Devices under 768px (md) */
@@ -500,8 +515,9 @@ a.top-scroll:hover {
    .caption .btn-lg {
       padding: .6rem 1.1rem;
    }
-   #features h1 {
-      font-size: 2rem;
+   
+   .lead {
+      font-size: 1rem;
    }
    .fixed-dark {
       background-image: url('../img/fixed/macbook.jpeg')
