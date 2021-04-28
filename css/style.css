@@ -17,7 +17,7 @@ html, body {
 /*--- Nav Scrolling Offset --*/
 .offset:before {
    content: "";
-   height: 4rem;
+   height: 3.98rem;
    display: block;
    margin-top: -4rem;
 }
@@ -206,13 +206,6 @@ h3.heading {
    padding-bottom: .4rem;
 }
 
-#skills h1 {
-   font-size: 1.75rem;
-}
-
-#skills h4 {
-   font-size: 1.3rem;
-}
 
 /*===== FIXED BACKGROUND IMG DARK =====*/
 
@@ -252,6 +245,19 @@ h3.heading {
    /* padding-left: 40px;
    padding-right: 40px; */
 }
+
+#skills h1 {
+   font-size: 1.75rem;
+}
+
+#skills h4 {
+   font-size: 1.3rem;
+}
+
+.node {
+   margin-left: -10px;
+}
+
 
 /*============= PORTFOLIO SECTION =============*/
 
