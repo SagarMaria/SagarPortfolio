@@ -161,7 +161,11 @@ button, a, a.btn,
    opacity: .8;
 }
 
-/*============= FEATURES SECTION =============*/
+/*============= INTRODUCTION SECTION =============*/
+
+#introduction .lead {
+   padding-top: 10px;
+}
 
 .btn-sm {
    border-width: medium;
