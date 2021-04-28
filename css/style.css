@@ -451,6 +451,10 @@ hr.socket {
    width: 100%;
 }
 
+input.btn {
+   margin: 0;
+}
+
 /*============= TOP SCROLL =============*/
 
 a.top-scroll {
