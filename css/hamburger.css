@@ -6,7 +6,7 @@
  * @link https://github.com/jonsuh/hamburgers
  */
 .hamburger {
-    padding: 12px 15px 2px 15px;
+    padding: 12px 15px 2px 0px;
     display: inline-block;
     cursor: pointer;
     transition-property: opacity, filter;
@@ -36,7 +36,7 @@
 }
 
 .hamburger-box {
-    width: 40px;
+    width: 15px;
     height: 24px;
     display: inline-block;
     position: relative;
