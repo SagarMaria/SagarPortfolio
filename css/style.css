@@ -233,7 +233,6 @@ h3.heading {
    -webkit-transform: translateZ(0);
    transform: translateZ(0);
    will-change: transform;
-   z-index: -1;
    top: 0;
    left: 0;
    display: table;
@@ -316,7 +315,6 @@ h3.heading {
    -webkit-transform: translateZ(0);
    transform: translateZ(0);
    will-change: transform;
-   z-index: -1;
    top: 0;
    left: 0;
    display: table;
