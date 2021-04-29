@@ -219,6 +219,7 @@ h3.heading {
 .fixed {
    position: relative;
    width: 100%;
+   overflow: hidden;
 }
 .fixed-wrap {
    clip: rect(0, auto, auto, 0);
