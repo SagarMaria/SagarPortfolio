@@ -232,8 +232,7 @@ h3.heading {
    z-index: -9999;
 }
 .fixed-dark {
-   background-image: url('../img/fixed/macbook.jpeg');
-   background-color: #000;
+   background: #000 url('../img/fixed/macbook.jpeg');
    position: fixed;
    height: 100%;
    width: 100%;
