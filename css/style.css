@@ -239,11 +239,9 @@ h3.heading {
    -webkit-transform: translateZ(0);
    transform: translateZ(0);
    will-change: transform;
-   z-index: 0;
+   z-index: -1;
    top: 0;
    left: 0;
-   right: 0;
-   bottom: 0;
    display: table;
 }
 .dark {
@@ -327,11 +325,9 @@ h3.heading {
    -webkit-transform: translateZ(0);
    transform: translateZ(0);
    will-change: transform;
-   z-index: -2;
+   z-index: -1;
    top: 0;
    left: 0;
-   right: 0;
-   bottom: 0;
    display: table;
 }
 .light {
