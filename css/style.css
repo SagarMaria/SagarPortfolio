@@ -167,7 +167,7 @@ button, a, a.btn,
    padding-top: 10px;
 }
 
-#introduction .container {
+#introduction > .container {
    background-color: #fff;
 }
 
