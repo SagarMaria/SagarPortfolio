@@ -49,7 +49,10 @@ $(document).ready(function () {
     lightbox.option({
         'resizeDuration': 600,
         'wrapAround': true,
-        'imageFadeDuration': 500
+        'imageFadeDuration': 500,
+        'alwaysShowNavOnTouchDevices': false,
+        'disableScrolling': true,
+        'fitImagesInViewport': true
     });
 });
 
