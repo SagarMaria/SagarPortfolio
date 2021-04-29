@@ -216,6 +216,7 @@ h3.heading {
 /*===== FIXED BACKGROUND IMG DARK =====*/
 
 /*--- iOS Fixed Background Image --*/
+
 .fixed {
    position: relative;
    width: 100%;
@@ -232,6 +233,7 @@ h3.heading {
 }
 .fixed-dark {
    background-image: url('../img/fixed/macbook.jpeg');
+   background-color: #000;
    position: fixed;
    height: 100%;
    width: 100%;
