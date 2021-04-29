@@ -167,8 +167,9 @@ button, a, a.btn,
    padding-top: 10px;
 }
 
-#introduction > .container {
+#introduction > .container-fluid {
    background-color: #fff;
+   margin: 0;
 }
 .jumbotron .container {
    background-color: #e9ecef;
