@@ -170,7 +170,9 @@ button, a, a.btn,
 #introduction > .container {
    background-color: #fff;
 }
-
+.jumbotron .container {
+   background-color: #e9ecef;
+}
 .btn-sm {
    border-width: medium;
    border-radius: 0;
@@ -237,9 +239,11 @@ h3.heading {
    -webkit-transform: translateZ(0);
    transform: translateZ(0);
    will-change: transform;
-   z-index: -1;
+   z-index: 0;
    top: 0;
    left: 0;
+   right: 0;
+   bottom: 0;
    display: table;
 }
 .dark {
@@ -326,6 +330,8 @@ h3.heading {
    z-index: -2;
    top: 0;
    left: 0;
+   right: 0;
+   bottom: 0;
    display: table;
 }
 .light {
