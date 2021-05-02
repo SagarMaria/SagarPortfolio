@@ -280,6 +280,10 @@ h3.heading {
    transition: transform .4s ease;
 }
 
+.rosa{
+   background-color: #27384a;
+}
+
 /*============= PRICING SECTION =============*/
 
 .pricing-column {
