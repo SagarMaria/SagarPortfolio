@@ -115,7 +115,7 @@ button, a, a.btn,
 .caption {
    z-index: 1;
    position: absolute;
-   top: 30%;
+   top: 25%;
    width: 100%;
    max-width: 100%;
 }
@@ -282,6 +282,10 @@ h3.heading {
 
 .rosa{
    background-color: #27384a;
+}
+
+.nuno {
+   background-color: #1dbba4;
 }
 
 /*============= PRICING SECTION =============*/
