@@ -52,7 +52,8 @@ $(document).ready(function () {
         'imageFadeDuration': 500,
         'alwaysShowNavOnTouchDevices': false,
         'disableScrolling': true,
-        'fitImagesInViewport': true
+        'fitImagesInViewport': true,
+        'maxWidth':700
     });
 });
 
